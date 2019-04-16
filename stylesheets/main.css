@@ -1,0 +1,27 @@
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    text-align-last: center;
+}
+.jumbotron{
+    background-color: rgba(64, 151, 226, 1);
+}
+.inputLabel{
+    font-size: 1.5em;
+    font-weight: 700;
+    color:white;
+}
+.helpLabel{
+    font-size:1em;
+}
+
+.customRed{
+    background-color: rgba(236, 39, 39, 1);
+}
+.container{
+    padding-top: 1em;
+    padding: 3em;
+    width:75%;
+}
