@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+    margin:auto;
+    padding: 0;
+}
+
+.counter{
+    background-color: rgba(64, 151, 226, 1);
+    height: 200px;
+    width: 600px;
+    position: relative;
+    top: 150px;
+    left: 300px;
+    border-radius: 60px;
+    padding-top: 20px;
+    padding-bottom: 29px;
+}
+
+.timeBlock{
+    background-color: white;
+    width:410px;
+    position: relative;
+    left:89px;
+    top:30px;
+    border-radius:25px;
+    text-align: center;
+    font-size:50px;
+    font-weight:bold;
+    resize: none;
+}
+
+.btn{
+    background-color: #333;
+    width:75px;
+    color:white;
+    font-weight: bold;
+    font-size:20px;
+    text-align: center;
+    border-width: 0;
+    border-radius: 5px;
+}
+
+#start{
+    background-color: #28a745;
+    position: relative;
+    top:97px;
+    left:-327px;
+}
+
+#stop{
+    background-color: #dc3545;
+    position: relative;
+    top:96px;
+    left:-241px;
+}
+
+#reset{
+    background-color: #ffc107;
+    position: relative;
+    top:47px;
+    left:428px;
+}
